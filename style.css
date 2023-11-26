@@ -1,0 +1,49 @@
+.navbar{
+    background-color: rgb(110, 72, 72) !important;
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold !important;
+}
+.cart{
+    display: flex;
+    justify-content: center;
+    margin-left: 20px;
+    margin: 30px;
+    font-weight: bold;
+    width: 250px !important;
+    width: 300px !important;
+}
+.heading{
+    text-align: center;
+    font-weight: bold;
+    color: rgb(110, 72, 72);
+    margin: 30px;
+}
+.btn-primary{
+    width: 100%;
+    background-color: rgb(110, 72, 72);
+
+}
+.heading>h1{
+    text-shadow: 2px 2px 4px black;
+}
+ .footer{
+    width: 100%;
+    background-color: rgb(110, 72, 72);
+    height: 70px;
+
+}
+.footer>div{
+    text-align: center;
+} 
+h4{
+    color: white;
+}
+.card {
+display: flex;
+justify-content: center;
+text-align: center;
+margin: 40px;
+display: inline;
+}

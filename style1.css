@@ -1,0 +1,11 @@
+.form{
+    margin: 40px;
+    color: black;
+}
+.cart{
+    display: flex;
+    justify-content: center;
+    width: 30px;
+  
+    
+}
